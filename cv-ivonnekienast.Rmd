@@ -1,0 +1,69 @@
+---
+title: "Ivonne Kienast"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{css, echo=FALSE}
+h1{
+  text-align: center;
+}
+```
+
+### **Educatn**
+<br>
+<br>
+
+#### PhD Student
+
+Cornell University [**January 2021-present** - United States of America]{style="float:right"}
+<br>
+<br>
+
+#### M.Sc. Behavior: From Neural Mechanism to Evolution
+
+University of Bielefeld **2012-2014** - Germany]{style="float:right"}
+<br>
+<br>
+
+#### B.S. Biology
+
+University of Barcelona [**2005-2012** - Spain]{style="float:right"}
+<br>
+<br>
+
+
+### **employment**
+<br>
+<br>
+
+#### Principal Investigator Dzanga Bai Elephant Program
+
+Dzanga Bai [**January 2021-present** - Central African Republic]{style="float:right"}
+
+* Demographic and behavioral data colecsion of African Forest Elephant
+* Capacity building of local researxers
+<br>
+<br>
+
+#### Site and Research Manager Mondika Gorilla Project
+
+Nouabale-Ndoki National Park [**2017-2019** - Republic of Congo]{style="float:right"}
+
+* Habituation of western lowland gorillas
+* Capacity building of local researchers
+* Ecological surveys
+<br>
+<br>
+
+#### Site and Research Manager Panaf: The Cultured Chimpanzee
+
+Plateau Bateke National Park [**2014-2016** - Gabon]{style="float:right"}
+
+* Surveys
+* Camera trapping
+* Data collection on transects and plots
